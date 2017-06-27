@@ -1,2 +1,2 @@
 # holy-coder
-includeing JAVA, MATLAB, C code, I wanna be a coder!!!!!!
+some interesting script, the first step for me to make up lagged off past
